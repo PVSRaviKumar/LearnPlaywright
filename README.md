@@ -7,6 +7,7 @@ A small repository for practicing JavaScript and Playwright concepts.
 - `chapter_01_Basics/` - Basic Playwright examples and setup verification snippets.
 - `chapter_02_JavaScript_Concepts/` - JavaScript basics and related code samples.
 - `chapter_03_Identifiers_Literals/` - Identifier rules and literals in JavaScript.
+- `chapter_04_JavaScript_concepts/` - JavaScript concepts such as scoping, hoisting, and function behavior.
 
 ## Usage
 
