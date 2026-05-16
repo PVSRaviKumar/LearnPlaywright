@@ -8,6 +8,7 @@ A small repository for practicing JavaScript and Playwright concepts.
 - `chapter_02_JavaScript_Concepts/` - JavaScript basics and related code samples.
 - `chapter_03_Identifiers_Literals/` - Identifier rules and literals in JavaScript.
 - `chapter_04_JavaScript_concepts/` - JavaScript concepts such as scoping, hoisting, and function behavior.
+- `chapter_05_Literal/` - Literal types, number systems, templates, and string examples.
 
 ## Usage
 
