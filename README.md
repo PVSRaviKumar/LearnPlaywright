@@ -13,6 +13,7 @@ A learning repository for JavaScript fundamentals and Playwright practice exerci
 - `chapter_07_if_else/` - Conditional statements including `if`, `else if`, `else`, and related exercises.
 - `chapter_08_Switch_state/` - `switch` statement examples, cases with and without breaks, and default branches.
 - `chapter_09_userinput/` - User input handling examples using browser prompts and Node.js readline.
+- `chapter_10_Loop/` - Loop constructs including `for`, `while`, `do...while`, and iteration patterns.
 
 ## Purpose
 
