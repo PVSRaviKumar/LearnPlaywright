@@ -16,6 +16,7 @@ A learning repository for JavaScript fundamentals and Playwright practice exerci
 - `chapter_10_Loop/` - Loop constructs including `for`, `while`, `do...while`, and iteration patterns.
 - `Chapter_11_Arrays/` - Array creation, traversal, transformation, and common array operations.
 - `Chapter_12_Functions/` - Function declarations, expressions, arrow functions, and reusable logic examples.
+- `Chapter_13_Advanced_Functions/` - Advanced function patterns, higher-order functions, and pure function practice.
 
 ## Purpose
 
