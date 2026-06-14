@@ -16,8 +16,8 @@ A learning repository for JavaScript fundamentals and Playwright practice exerci
 - `chapter_10_Loop/` - Loop constructs including `for`, `while`, `do...while`, and iteration patterns.
 - `Chapter_11_Arrays/` - Array creation, traversal, transformation, and common array operations.
 - `Chapter_12_Functions/` - Function declarations, expressions, arrow functions, and reusable logic examples.
-- `Chapter_13_Advanced_Functions/` - Advanced function patterns, higher-order functions, and pure function practice.
 - `Chapter_13_Strings/` - String literals, methods, concatenation, and text-processing examples.
+- `Chapter_14_Objects/` - Object literals, property updates, and `let`/`const` behavior with objects.
 
 ## Purpose
 
@@ -37,4 +37,5 @@ This repository is intended for practicing and reviewing JavaScript syntax, logi
 
 - File names generally indicate the topic or example covered.
 - This repository is structured for learning, not production use.
+- Recent additions include object-focused examples in `Chapter_14_Objects/`, which are useful for reviewing how object properties can be changed while the object reference stays constant.
 - Add more chapters and exercises as you continue studying JavaScript and Playwright.
