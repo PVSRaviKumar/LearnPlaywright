@@ -18,6 +18,7 @@ A learning repository for JavaScript fundamentals and Playwright practice exerci
 - `Chapter_12_Functions/` - Function declarations, expressions, arrow functions, and reusable logic examples.
 - `Chapter_13_Strings/` - String literals, methods, concatenation, and text-processing examples.
 - `Chapter_14_Objects/` - Object literals, property updates, and `let`/`const` behavior with objects.
+- `Chapter_15_2D_arrays/` - 2D array creation, manipulation, pattern generation, and real-world examples.
 
 ## Purpose
 

@@ -3,6 +3,8 @@ let scores = [45, 82, 91, 60, 73];
 // based on the condition every elemnt of the array
 // is considered and checked with conditon
 
+//map will take every item of the array one by one.
+
 // A map will always return the same number of elements that you have, 
 // but based on the condition, their values will be changed. 
 
