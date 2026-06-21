@@ -19,6 +19,8 @@ A learning repository for JavaScript fundamentals and Playwright practice exerci
 - `Chapter_13_Strings/` - String literals, methods, concatenation, and text-processing examples.
 - `Chapter_14_Objects/` - Object literals, property updates, and `let`/`const` behavior with objects.
 - `Chapter_15_2D_arrays/` - 2D array creation, manipulation, pattern generation, and real-world examples.
+- `Chapter_16_Callback/` - Callback functions, asynchronous patterns, callback hell, and callback in Playwright examples.
+- `Chapter_19_Playwright_Basics/` - Playwright framework setup and basic usage examples.
 
 ## Purpose
 
