@@ -1,0 +1,32 @@
+class Calculator {
+    value_one;
+    value_two;
+    constructor(value_one, value_two) {
+        this.value_one = value_one;
+        this.value_two = value_two;
+    }
+
+    getSumOfTwoNumbers() {
+        return this.value_one + this.value_two;
+    }
+
+    getSubOfTwoNumbers() {
+        return this.value_one - this.value_two;
+    }
+
+    getMultOfTwoNumbers() {
+        return this.value_one * this.value_two;
+    }
+
+    getDivOfTwoNumbers() {
+        return this.value_one % this.value_two;
+    }
+}
+
+const math_operation = new Calculator(250, 65);
+console.log("Sum of two numbers : " + math_operation.getSumOfTwoNumbers());
+console.log("Sub of two numbers : " + math_operation.getSubOfTwoNumbers());
+console.log(
+    "Mult of two numbers : " + math_operation.getMultOfTwoNumbers(),
+);
+console.log("Div of two numbers : " + math_operation.getDivOfTwoNumbers());

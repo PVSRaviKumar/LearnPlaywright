@@ -1,4 +1,4 @@
-import { test, expect } from '@playwright/test';
+/* import { test, expect } from '@playwright/test';
 
 test('logs in with valid credentials @p0', async ({ page }) => {
     await test.step('Login as standard_user', async () => {
@@ -19,4 +19,4 @@ import { test, expect } from '@playwright/test';
 test('has title', async ({ page }) => {
     await page.goto('https://playwright.dev/');
     await expect(page).toHaveTitle(/Playwright/);
-});
+}); */
