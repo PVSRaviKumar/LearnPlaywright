@@ -27,7 +27,7 @@ A learning repository for JavaScript fundamentals and Playwright practice exerci
 
 ## Purpose
 
-This repository is intended for practicing and reviewing JavaScript syntax, logic, and basic Playwright usage. Each chapter contains small independent example files designed to illustrate a specific concept.
+This repository is intended for practicing and reviewing JavaScript syntax, logic, and basic Playwright usage. Each chapter contains small independent example files designed to illustrate a specific concept. The repository also includes hands-on exercises for TypeScript basics and object-oriented programming topics such as classes, objects, encapsulation, inheritance, polymorphism, and interview-style questions.
 
 ## How to Use
 
