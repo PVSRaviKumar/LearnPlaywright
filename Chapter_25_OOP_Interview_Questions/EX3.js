@@ -1,0 +1,20 @@
+// Exercise 3: `this` Refers to Current Object
+class User {
+    constructor(name) {
+        this.name = name;
+    }
+
+    greet() {
+        console.log("Hi, I am " + this.name);
+    }
+}
+
+let u1 = new User("Alice");
+let u2 = new User("Bob");
+
+u1.greet();
+u2.greet();
+
+/* the out put is as follows
+Hi, I am Alice
+Hi, I am Bob*/
