@@ -24,6 +24,13 @@ A learning repository for JavaScript fundamentals and Playwright practice exerci
 - `chapter_18_Async_Await/` - Async/await syntax, error handling with try-catch, parallel and sequential execution patterns, and practical async examples.
 - `Chapter_19_Playwright_Basics/` - Playwright framework setup and basic usage examples.
 - `Chapter_20_TypeScripts_Basics/` - TypeScript basics, classes, objects, and static versus non-static members, with class-object exercises and export/import examples.
+- `Chapter_21_Class_Objects/` - Class and object creation, constructors, methods, and object interaction examples.
+- `Chapter_22_Encapsulation/` - Encapsulation concepts, private properties, getters/setters, and access control patterns.
+- `Chapter_22_Inheritance/` - Inheritance examples, base/derived classes, method overriding, and subclass behavior.
+- `Chapter_23_Polymorphism/` - Polymorphism examples, interface-based design, and runtime method resolution patterns.
+- `Chapter_25_OOP_Interview_Questions/` - Object-oriented programming interview-style questions and exercises.
+- `Chapter_26_TypeScript/` - TypeScript-specific examples for advanced typing, interfaces, and compile-time checks.
+- `chapter_27_TypeScript_Interface/` - Interface use cases, readonly properties, and TypeScript interface exercises.
 
 ## Purpose
 
