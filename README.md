@@ -1,6 +1,6 @@
 # LearnPlaywright
 
-A learning repository for JavaScript fundamentals and Playwright practice exercises.
+A learning repository for JavaScript, TypeScript, and Playwright practice exercises.
 
 ## Repository Structure
 
@@ -29,12 +29,12 @@ A learning repository for JavaScript fundamentals and Playwright practice exerci
 - `Chapter_22_Inheritance/` - Inheritance examples, base/derived classes, method overriding, and subclass behavior.
 - `Chapter_23_Polymorphism/` - Polymorphism examples, interface-based design, and runtime method resolution patterns.
 - `Chapter_25_OOP_Interview_Questions/` - Object-oriented programming interview-style questions and exercises.
-- `Chapter_26_TypeScript/` - TypeScript-specific examples for advanced typing, interfaces, and compile-time checks.
+- `Chapter_26_TypeScript/` - TypeScript examples covering basics, functions, and interview-style practice.
 - `chapter_27_TypeScript_Interface/` - Interface use cases, readonly properties, and TypeScript interface exercises.
 
 ## Purpose
 
-This repository is intended for practicing and reviewing JavaScript syntax, logic, and basic Playwright usage. Each chapter contains small independent example files designed to illustrate a specific concept. The repository also includes hands-on exercises for TypeScript basics and object-oriented programming topics such as classes, objects, encapsulation, inheritance, polymorphism, and interview-style questions.
+This repository is intended for practicing and reviewing JavaScript syntax, logic, TypeScript fundamentals, and basic Playwright usage. Each chapter contains small independent example files designed to illustrate a specific concept. The repository also includes hands-on exercises for object-oriented programming topics such as classes, objects, encapsulation, inheritance, polymorphism, and interface-based design.
 
 ## How to Use
 
@@ -44,11 +44,15 @@ This repository is intended for practicing and reviewing JavaScript syntax, logi
    ```powershell
    node chapter_07_if_else/48_if_else.js
    ```
-4. Modify or extend the examples to test alternate behavior and learn through experimentation.
+4. Compile and run TypeScript files with the TypeScript compiler, for example:
+   ```powershell
+   npx tsc chapter_27_TypeScript_Interface/201_TypeScript_Interface.ts
+   ```
+5. Modify or extend the examples to test alternate behavior and learn through experimentation.
 
 ## Notes
 
 - File names generally indicate the topic or example covered.
 - This repository is structured for learning, not production use.
-- Recent additions include object-focused examples in `Chapter_14_Objects/`, which are useful for reviewing how object properties can be changed while the object reference stays constant.
-- Add more chapters and exercises as you continue studying JavaScript and Playwright.
+- Recent additions include TypeScript and interface-focused examples that are useful for reviewing how typed contracts and readonly properties behave in practice.
+- Add more chapters and exercises as you continue studying JavaScript, TypeScript, and Playwright.
